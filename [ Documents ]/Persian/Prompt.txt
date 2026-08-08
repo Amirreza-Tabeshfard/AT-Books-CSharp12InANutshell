@@ -1,0 +1,26 @@
+There are also the following niche runtimes:
+• Unity is a game development platform that allows game logic to be scripted
+with C#.
+• Universal Windows Platform (UWP) was designed for writing touch-first applications
+that run on Windows 10+ desktop and devices, including Xbox, Surface
+Hub, and HoloLens. UWP apps are sandboxed and ship via the Windows Store.
+UWP uses a version of the .NET Core 2.2 CLR/BCL, and it’s unlikely that
+this dependency will be updated; instead, Microsoft has recommended that
+users switch to its modern replacement, WinUI 3. But because WinUI 3 only
+supports Windows desktop, UWP still has a niche application for targeting
+Xbox, Surface Hub, and HoloLens.
+• The .NET Micro Framework is for running .NET code on highly resourceconstrained
+embedded devices (under one megabyte).
+It’s also possible to run managed code within SQL Server. With SQL Server CLR
+integration, you can write custom functions, stored procedures, and aggregations in
+C# and then call them from SQL. This works in conjunction with .NET Framework
+and a special “hosted” CLR that enforces a sandbox to protect the integrity of the
+SQL Server process.
+
+
+نکته طلایی:
+- متن فوق مربوط به کتاب CSharp 12 in a Nutshell می باشد
+- می خواهم جملات فوق را به فارسی ترجمه کنی ؛ فقط از آنجایی که کتاب تخصصی برنامه نویسی سی شارپ هستش ؛ اصطلاحات اصلی را ترجمه فارسی نکن تا خواندن آن با مفهوم تر باشد.
+- جوری ترجمه کن که کاملا قابل فهم باشد و دقیقا مفهوم متن نوشته شده منعقد گردد.
+
+* جوری تولید کن که بتونم به راحتی Copy کنم
