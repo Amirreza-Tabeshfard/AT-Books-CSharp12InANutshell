@@ -1,7 +1,7 @@
 <Solution>
   <Folder Name="/Chapter [01]/" />
   <Folder Name="/Chapter [01]/Page [09]/">
-    <Project Path="CollectionExpressions/CollectionExpressions.csproj" Id="76544b63-9f95-4ef9-8def-41d417bb79b7" />
-    <Project Path="PrimaryConstructors/PrimaryConstructors.csproj" Id="2ae04c62-e770-4364-b2cc-f00f2360992b" />
+    <Project Path="Chapter [01]/Page [09]/CollectionExpressions/CollectionExpressions.csproj" />
+    <Project Path="Chapter [01]/Page [09]/PrimaryConstructors/PrimaryConstructors.csproj" />
   </Folder>
 </Solution>
